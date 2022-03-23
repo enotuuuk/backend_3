@@ -1,0 +1,45 @@
+body {
+    color: rgb(1, 17, 59);
+    background-color: lavenderblush;
+}
+
+.form {
+    text-align: left;
+    width: 400px;
+    height: auto;
+    overflow: hidden;
+    margin: 50px auto;
+    padding: 20px 20px 9px;
+    position: relative;
+    background: rgb(196, 209, 255);
+    border-radius: 3px;
+}
+
+.form label {
+    color: rgb(1, 17, 59);
+}
+
+.form input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: white;
+}
+
+.form input[type="submit"] {
+    background-color: rgb(243, 246, 250);
+    border: 2px;
+    border-radius: 4px;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+}
+
+.border {
+    width: auto;
+}
+
+html {
+    height: 100%;
+    background-size: cover;
+}
